@@ -1,7 +1,5 @@
 "use strict";
 
-//import * as GLOBAL_CONSTANTS from './config/server_conf';
-
 const GLOBAL_CONSTANTS = require("./config/server_conf");
 const SERVER_CONTROLLER = require("./controller/server_controller");
 
